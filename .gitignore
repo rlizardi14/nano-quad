@@ -1,0 +1,16 @@
+   # PlatformIO / build output
+   .pio/
+   .vscode/.browse*
+
+   # Python
+   __pycache__/
+   .venv/
+   .ipynb_checkpoints/
+
+   # SolidWorks / Office temp and lock files
+   ~$*
+   *.SLDBAK
+
+   # OS clutter
+   Thumbs.db
+   .DS_Store
